@@ -35,6 +35,7 @@ RSpec.describe Product, type: :model do
 
     it "is not valid without a category" do 
       subject.category = nil 
+      expect(subject).not_to be_valid
       subject.save
       expect(subject.errors.full_messages).to eql(["Category can't be blank"])
     end
