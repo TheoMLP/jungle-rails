@@ -17,11 +17,15 @@ A mini e-commerce application built with Rails 4.2, using stripe verification AP
 
 ## Final Product
 
-!["Main page display & Book/Edit interview functionality"](https://github.com/TheoMLP/scheduler/blob/master/docs/Book_interview_functionality.png?raw=true)
+!["Home page display & Add to cart and producgt details functionality"](https://github.com/TheoMLP/jungle-rails/blob/master/docs/home_page.png?raw=true)
 
-!["Confirm delete functionality"](https://github.com/TheoMLP/scheduler/blob/master/docs/confirm_delete_functionality.png?raw=true)
+!["Product page with item details"](https://github.com/TheoMLP/jungle-rails/blob/master/docs/product_page.png?raw=true)
 
-!["Responsive loading and deleting functionality"](https://github.com/TheoMLP/scheduler/blob/master/docs/responsive_loading_functionality.png?raw=true)
+!["My Cart page displaying items and total price, with payment functionality using the Stripe API"](https://github.com/TheoMLP/jungle-rails/blob/master/docs/my_cart.png?raw=true)
+
+!["Order receipt page displaying the item bought and total order price"](https://github.com/TheoMLP/jungle-rails/blob/master/docs/order_receipt.png?raw=true)
+
+!["Example of admin section where the admin can manage/add products"](https://github.com/TheoMLP/jungle-rails/blob/master/docs/admin_product_section.png?raw=true)
 
 ## Getting Started
 
